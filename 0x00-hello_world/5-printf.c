@@ -1,13 +1,13 @@
 /*
  * Program: 5-printf.c
- * Author: DESTINYAS
+ * Author: DESTINYAS.
  */
 
 #include <stdio.h>
 
 /**
- * main - prints with proper grammar, but the outcome is a piece of art
- * Return: 0
+ * main - prints with proper grammar, but the outcome is a piece of art.
+ * Return: 0.
  */
 
 int main(void)
