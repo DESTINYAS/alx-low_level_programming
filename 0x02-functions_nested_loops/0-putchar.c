@@ -1,6 +1,7 @@
 /*
  * Author: DESTINYAS
  */
+#include<stdio.h>
 
 /**
  * main - Entry point
